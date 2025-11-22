@@ -1,4 +1,4 @@
-import logo from "../../assets/logo-new.webp";
+import logo from "../../assets/Logo-new.webp";
 import { useForm } from "react-hook-form";
 import { Link } from "react-router-dom";
 
